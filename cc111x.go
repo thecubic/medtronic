@@ -2,6 +2,6 @@
 
 package medtronic
 
-import "github.com/ecc1/cc111x"
+import "github.com/thecubic/cc111x"
 
 var radioInterface = cc111x.Open
