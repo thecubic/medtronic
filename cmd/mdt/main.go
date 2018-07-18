@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 type (

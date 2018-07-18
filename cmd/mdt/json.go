@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 func showInternal(v interface{}) {

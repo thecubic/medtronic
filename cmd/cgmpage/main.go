@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 var (

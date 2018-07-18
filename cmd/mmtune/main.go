@@ -6,7 +6,7 @@ import (
 	"log"
 	"sort"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 	"github.com/ecc1/radio"
 )
 

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 func main() {

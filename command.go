@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ecc1/medtronic/packet"
+	"github.com/thecubic/medtronic/packet"
 )
 
 // Command represents a pump command.

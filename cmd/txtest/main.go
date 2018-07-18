@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/ecc1/medtronic"
-	"github.com/ecc1/medtronic/packet"
+	"github.com/thecubic/medtronic"
+	"github.com/thecubic/medtronic/packet"
 )
 
 var (

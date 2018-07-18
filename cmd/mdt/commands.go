@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 type (

@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 	"github.com/ecc1/nightscout"
 	"github.com/ecc1/papertrail"
 )

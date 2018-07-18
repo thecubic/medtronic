@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ecc1/medtronic/packet"
+	"github.com/thecubic/medtronic/packet"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 var (

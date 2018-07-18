@@ -10,7 +10,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ecc1/medtronic"
+	"github.com/thecubic/medtronic"
 )
 
 var (
